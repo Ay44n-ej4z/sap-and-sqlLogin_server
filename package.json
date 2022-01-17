@@ -1,0 +1,19 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ay44n-ej4z/Sap-and-Login_Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ay44n-ej4z/Sap-and-Login_Backend/issues"
+  },
+  "homepage": "https://github.com/Ay44n-ej4z/Sap-and-Login_Backend#readme"
+}
