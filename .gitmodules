@@ -1,0 +1,6 @@
+[submodule "loginClient"]
+	path = loginClient
+	url = https://github.com/Ay44n-ej4z/typeorm
+[submodule "sapClient"]
+	path = sapClient
+	url = https://github.com/Ay44n-ej4z/sapTask
